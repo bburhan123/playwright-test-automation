@@ -1,11 +1,11 @@
 # playwright-test-automation
-This project is designed for QA assignemnt of UI and API testing using Playwright and TypeScript.
+This project is designed to automate UI and API testing using Playwright and TypeScript.
 
-Task 1 : Functional test scenario  
+Task 1: Functional test scenario
 Automate the UI tests for https://www.demoblaze.com/  
 Test the “Sign In” flow and basic “Add to cart” functionality.
 
-Task 2 : API test scenario  
+Task 2: API test scenario  
 Write Automation tests for the below APIs (swagger -  https://petstore.swagger.io)  
 ● Add a new pet to the store  
 ● Find pet by ID
